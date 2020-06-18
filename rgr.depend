@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1592456743 source:c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\cashout.cpp
+	"cashOUT.h"
+
+1592456742 c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\cashout.h
+	"order.h"
+
+1592459622 c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\order.h
+	<iostream>
+	<string.h>
+	"kontragent.h"
+	<fstream>
+
+1592456742 c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\kontragent.h
+	<iostream>
+	<string.h>
+	<fstream>
+
+1592460261 source:c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\kontragent.cpp
+	"kontragent.h"
+
+1592460261 source:c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\order.cpp
+	"order.h"
+
+1592456766 source:c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\cashin.cpp
+	"cachIn.h"
+
+1592456742 c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\cachin.h
+	"order.h"
+
+1592461032 source:c:\users\kirev\onedrive\Рабочий стол\экзамен\1 лабораторка\rgr\main.cpp
+	<iostream>
+	<string>
+	"kontragent.h"
+	"order.h"
+	"cachIN.h"
+	"cashOUT.h"
+	<fstream>
+
